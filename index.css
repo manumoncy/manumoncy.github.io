@@ -1,0 +1,41 @@
+<style>
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+.div1 {
+  background-color: lightgrey;
+  width: 20%;
+  border: 25px black;
+  padding: 25px;
+  margin: 1%;
+  text-align: justify;
+  float: right;
+}
+.alotoftext {
+text-align: justify;
+float: left;
+width: 72%;
+margin: 1%;
+}
+.middle {
+	text-align: center;
+	display: table;
+}
+.right {
+	text-align: right;
+}
+</style>
