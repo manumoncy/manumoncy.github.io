@@ -38,4 +38,21 @@ margin: 1%;
 .right {
 	text-align: right;
 }
+@font-face {
+  font-family: candybeans;
+  src: url('Candy Beans.otf');
+}
+
+@font-face {
+  font-family: kwixter;
+  src: url('Kwixter Sketch_D.otf');
+}
+
+.candybeans{
+  font-family: candybeans;
+}
+
+.kwixter{
+  font-family: kwixter;
+}
 </style>
